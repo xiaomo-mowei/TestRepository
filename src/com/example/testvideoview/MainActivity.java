@@ -30,6 +30,14 @@ public class MainActivity extends Activity implements OnClickListener {
 		startButton = (Button) findViewById(R.id.startButton);
 		startButton.setOnClickListener(this);
 		progressBar = (ProgressBar) findViewById(R.id.progressBar);
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 
 	@Override
